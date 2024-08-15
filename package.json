@@ -1,0 +1,12 @@
+{
+    "name": "com.demigiant.dotween",
+    "displayName": "DOTween",
+    "author": { "name": "DemiGiant", "url": "http://dotween.demigiant.com/" },
+    "version": "2.5.5",
+    "unity": "2018.4",
+    "description": "Provides an efficient tweens to Unity.",
+    "keywords": [ "DOTween", "Tween", "HOTween" ],
+    "license": "MIT",
+    "category": "Tween",
+    "dependencies": {}
+}
